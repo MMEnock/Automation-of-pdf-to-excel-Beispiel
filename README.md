@@ -20,3 +20,4 @@ You can install the necessary Python libraries using pip:
 
 ```bash
 pip install PyPDF2 pandas openpyxl
+pip install pandas
