@@ -1,6 +1,6 @@
 # PDF to Excel Converter
 
-This project contains a Python script that extracts data from PDF files and exports it into an Excel spreadsheet. It is particularly useful for structured data tables in PDFs where items are listed with prices and other related details.
+This project contains a Python script that extracts data from PDF files and exports it into an Excel spreadsheet. It is particularly useful for structured data tables in PDFs.
 
 ## Features
 
